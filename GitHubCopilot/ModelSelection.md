@@ -1,4 +1,4 @@
-
+[AI Model Recommendation for Copilot Chat Modes and Prompts](https://github.com/github/awesome-copilot/blob/main/prompts/model-recommendation.prompt.md)
 
 #### Model Capabilities Matrix
 
