@@ -26,12 +26,10 @@ Implement knowledge mining and information extraction solutions (15–20%)
 
 **Develop AI information extraction solutions in Azure**
 
-<br/>
-
-## LABS by course
+> [!IMPORTANT]
+> LABS by course
 
 ### Develop generative AI solutions in Azure
-
 
 **Prepare for an AI development project**
 
