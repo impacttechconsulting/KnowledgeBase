@@ -29,6 +29,7 @@ Implement knowledge mining and information extraction solutions (15–20%)
 > [!IMPORTANT]
 > LABS by course
 
+> [!TIP]
 > Develop generative AI solutions in Azure
 
 **Prepare for an AI development project**
@@ -74,7 +75,7 @@ https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/07-Evaluate-p
 Learn how to evaluate models and prompts to optimize the performance of your chat app and its ability to respond appropriately.
 
 
-
+> [!TIP]
 > Develop AI agents on Azure
 
 **Explore AI Agent development**
@@ -132,7 +133,7 @@ https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/07-build-agen
 Use the Microsoft Foundry VS Code extension to create an AI agent.
 
 
-
+> [!TIP]
 > Develop natural language solutions in Azure
 
 **Analyze text with Azure Language**
@@ -142,7 +143,7 @@ https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/8-ex
 Use the Azure Language SDK to develop a client application that analyzes text
 
 
-
+> [!TIP]
 > Develop computer vision solutions in Azure
 
 **Develop a vision-enabled generative AI application**
@@ -154,7 +155,7 @@ https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-
 https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/5-exercise-use-dall-e
 
 
-
+> [!TIP]
 > Develop AI information extraction solutions in Azure
 
 **Extract information from multimodal content**
