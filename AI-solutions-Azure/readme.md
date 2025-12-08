@@ -75,7 +75,7 @@ Learn how to evaluate models and prompts to optimize the performance of your cha
 
 
 
-### Develop AI agents on Azure
+> Develop AI agents on Azure
 
 **Explore AI Agent development**
 
@@ -133,7 +133,7 @@ Use the Microsoft Foundry VS Code extension to create an AI agent.
 
 
 
-### Develop natural language solutions in Azure
+> Develop natural language solutions in Azure
 
 **Analyze text with Azure Language**
 
@@ -143,7 +143,7 @@ Use the Azure Language SDK to develop a client application that analyzes text
 
 
 
-### Develop computer vision solutions in Azure
+> Develop computer vision solutions in Azure
 
 **Develop a vision-enabled generative AI application**
 
@@ -155,7 +155,7 @@ https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/
 
 
 
-### Develop AI information extraction solutions in Azure
+> Develop AI information extraction solutions in Azure
 
 **Extract information from multimodal content**
 
