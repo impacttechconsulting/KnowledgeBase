@@ -50,3 +50,13 @@ Learn how to apply content filters that mitigate potentially offensive or harmfu
 https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/07-Evaluate-prompt-flow.html
 
 Learn how to evaluate models and prompts to optimize the performance of your chat app and its ability to respond appropriately.
+
+
+## Develop natural language solutions in Azure
+
+## Exercises
+
+**Analyze text with Azure Language**
+https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/8-exercise-analyze-text
+
+Use the Azure Language SDK to develop a client application that analyzes text
