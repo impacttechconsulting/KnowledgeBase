@@ -136,11 +136,11 @@ Use the Microsoft Foundry VS Code extension to create an AI agent.
 > [!TIP]
 > Develop natural language solutions in Azure
 
-**Analyze text with Azure Language**
+**Create speech-enabled apps with Microsoft Foundry**
 
-https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/8-exercise-analyze-text
+https://microsoftlearning.github.io/mslearn-ai-language/Instructions/Labs/07-speech.html
 
-Use the Azure Language SDK to develop a client application that analyzes text
+Use speech-to-text and text to speech APIs, which enable you to create apps that are capable of speech recognition and speech synthesis.
 
 
 > [!TIP]
