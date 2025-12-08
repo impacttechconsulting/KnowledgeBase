@@ -14,7 +14,7 @@ Implement knowledge mining and information extraction solutions (15–20%)
 
 <br/>
 
-## Course - Develop AI solutions in Azure
+> Course - Develop AI solutions in Azure
 
 **Develop generative AI apps in Azure**
 
