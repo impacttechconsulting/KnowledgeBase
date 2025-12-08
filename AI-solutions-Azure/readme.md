@@ -110,7 +110,7 @@ https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/06-multi-remo
 Use the A2A protocol to collaborate with remote agents.
 
 **Develop an AI agent with VS Code extension**
-"https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/07-build-agent-in-vs-code.html
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/07-build-agent-in-vs-code.html
 
 Use the Microsoft Foundry VS Code extension to create an AI agent.
 
@@ -123,3 +123,41 @@ Use the Microsoft Foundry VS Code extension to create an AI agent.
 https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/8-exercise-analyze-text
 
 Use the Azure Language SDK to develop a client application that analyzes text
+
+## Develop computer vision solutions in Azure
+## Exercises
+
+**Develop a vision-enabled generative AI application**
+https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-apps/4-exercise
+
+**Generate images with AI**
+https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/5-exercise-use-dall-e
+
+## Develop AI information extraction solutions in Azure
+
+## Exercises
+
+**Extract information from multimodal content**
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/01-content-understanding.html
+
+Use Azure Content Understanding to extract information from documents, images, audio files, and videos.
+
+**Develop a Content Understanding client application**
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/02-content-understanding-api.html
+
+Use the Azure Content Understanding REST API to extract information from content by submitting a file to an analyzer.
+
+**Analyze a document using Azure Document Intelligence**
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/03-prebuilt-doc-intelligence-model.html
+
+Use Azure Document Intelligence to analyze forms using a prebuilt model.
+
+**Extract data from custom forms**
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/04-custom-doc-intelligence-model.html
+
+Use the Azure Document Intelligence service to train and test a custom models.
+
+**Create a knowledge mining solution**
+https://microsoftlearning.github.io/mslearn-ai-information-extraction/Instructions/Labs/05-knowledge-mining.html
+
+Use Azure AI Search to extract and enrich information from documents into a searchable index and a knowledge stores.
