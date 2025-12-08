@@ -12,6 +12,24 @@ Implement natural language processing solutions (15–20%)
 
 Implement knowledge mining and information extraction solutions (15–20%)
 
+
+
+## Course - Develop AI solutions in Azure
+
+## Training in this course
+
+**Develop generative AI apps in Azure**
+
+**Develop AI agents on Azure**
+
+**Develop natural language solutions in Azure**
+
+**Develop computer vision solutions in Azure**
+
+**Develop AI information extraction solutions in Azure**
+
+## LABS
+
 ## Develop generative AI solutions in Azure
 
 ## Exercises
