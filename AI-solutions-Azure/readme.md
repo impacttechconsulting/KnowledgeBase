@@ -16,8 +16,6 @@ Implement knowledge mining and information extraction solutions (15–20%)
 
 ## Course - Develop AI solutions in Azure
 
-## Training in this course
-
 **Develop generative AI apps in Azure**
 
 **Develop AI agents on Azure**
@@ -28,7 +26,7 @@ Implement knowledge mining and information extraction solutions (15–20%)
 
 **Develop AI information extraction solutions in Azure**
 
-## LABS
+## LABS by course
 
 ## Develop generative AI solutions in Azure
 
@@ -68,6 +66,53 @@ Learn how to apply content filters that mitigate potentially offensive or harmfu
 https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/07-Evaluate-prompt-flow.html
 
 Learn how to evaluate models and prompts to optimize the performance of your chat app and its ability to respond appropriately.
+
+## Develop AI agents on Azure
+
+**Explore AI Agent development**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/01-agent-fundamentals.html
+
+Take your first steps in developing AI agents by exploring the Azure AI Agent service in the Microsoft Foundry portal.
+
+**Develop an AI agent**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/02-build-ai-agent.html
+
+Use the Azure AI Agent Service to develop an agent that uses built-in tools.
+
+**Use a custom function in an AI agent**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03-agent-custom-functions.html
+
+Learn how to use functions to add custom capabilities to your agents.
+
+**Develop a multi-agent solution with Microsoft Foundry**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03b-build-multi-agent-solution.html
+
+Learn to configure multiple agents to collaborate using Microsoft Foundry Agent Service
+
+**Connect AI Agents to a remote MCP server**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/03c-use-agent-tools-with-mcp.html
+
+Learn how to integrate Model Context Protocol tools with AI agents
+
+**Develop an Azure AI agent with the Microsoft Agent Framework SDK**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/04-semantic-kernel.html
+
+Learn how to use the Microsoft Agent Framework SDK to create and use an Azure AI chat agent.
+
+**Develop a multi-agent solution with Microsoft Agent Framework**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/05-agent-orchestration.html
+
+Learn to configure multiple agents to collaborate using the Microsoft Agent Framework SDK
+
+**Connect to remote agents with A2A protocol**
+https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/06-multi-remote-agents-with-a2a.html
+
+Use the A2A protocol to collaborate with remote agents.
+
+**Develop an AI agent with VS Code extension**
+"https://microsoftlearning.github.io/mslearn-ai-agents/Instructions/07-build-agent-in-vs-code.html
+
+Use the Microsoft Foundry VS Code extension to create an AI agent.
 
 
 ## Develop natural language solutions in Azure
