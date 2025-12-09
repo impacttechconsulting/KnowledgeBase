@@ -1,6 +1,7 @@
 # Operationalize generative AI applications (GenAIOps)
 
-[Training material](https://learn.microsoft.com/en-us/training/paths/operationalize-gen-ai-app)
+[Training material for GenAIOps](https://learn.microsoft.com/en-us/training/paths/operationalize-gen-ai-app)
+[Learning material for LLMOps](https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/mlops-in-openai/)
 
 ## Plan and prepare a GenAIOps solution
 ### Labs
