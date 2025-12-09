@@ -1,3 +1,7 @@
+## GitHub Copilot Learning Path
+
+[Training Material](https://learn.microsoft.com/en-us/training/paths/copilot/)
+
 **Knowledge Base for GitHub Copilot**
 
 _Links leading to Awesome-copilot_
