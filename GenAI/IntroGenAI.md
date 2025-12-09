@@ -5,4 +5,4 @@
 
 **Explore generative AI agent scenarios**
 
-[Explore generative AI](https://microsoftlearning.github.io/mslearn-ai-concepts/Instructions/exercises/02-generative-ai.html)
+[Lab - Explore generative AI](https://microsoftlearning.github.io/mslearn-ai-concepts/Instructions/exercises/02-generative-ai.html)
