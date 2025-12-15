@@ -77,10 +77,10 @@ Review the following bug report content. Summarize the core issue, steps to repr
 > [!TIP]
 > I'm analyzing several recent bugs (reports below). Identify common patterns or recurring themes in the root causes, affected modules, or error messages. Bug Report 1: [Content] Bug Report 2: [Content]
 
-> [!TIP]
+> [!NOTE]
 > Custom Prompt Files (for repetitive tasks)
 
-actions:
+```actions:
   - name: summarizeBug
     description: Summarize a bug report for quick review.
     prompt: |
@@ -96,3 +96,4 @@ actions:
       ---
       {{bug_report_content}}
       ---
+```
