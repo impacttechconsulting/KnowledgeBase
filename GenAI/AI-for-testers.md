@@ -68,9 +68,7 @@ If your specific MCP server provides preconfigured prompts, you might use a slas
 **Review a bug report → summarize → classify root cause**
 > [!TIP]
 Review the following bug report content. Summarize the core issue, steps to reproduce, and expected vs. actual results in a concise summary (under 50 words).
----
 [Paste the entire bug report text here]
----
 
 > [!TIP]
 >Summarize the #changes in the last pull request and format them as release notes for the QA team
