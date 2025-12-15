@@ -80,6 +80,9 @@ Review the following bug report content. Summarize the core issue, steps to repr
 > [!NOTE]
 > Custom Prompt Files (for repetitive tasks)
 
+1. Create a Prompt File: In VS Code, create a .copilot/prompts.yaml file (or similar)
+2. Define Actions:
+
 ```actions:
   - name: summarizeBug
     description: Summarize a bug report for quick review.
