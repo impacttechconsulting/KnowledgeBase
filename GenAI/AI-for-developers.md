@@ -24,6 +24,9 @@ CI/CD & Workflow Intelligence: Monitor GitHub Actions workflow runs, analyze bui
 
 Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
 
+[GitHub MCP](https://github.com/github/github-mcp-server)
+
+
 **Playwright**
 
 
