@@ -1,5 +1,7 @@
 # QA testing Use cases & Samples
+https://medium.com/@iamsanjeevkumar/github-copilot-automate-test-case-generation-with-a-template-driven-strategy-32fd4816d493
 
+https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows
 
 **Generate Acceptance Criteria for all the Payment API scenarios as per General Guidelines and Specific Instructions mentioned in the copilot-api-test-generation-guide.md***
 ### **API Details:**  
