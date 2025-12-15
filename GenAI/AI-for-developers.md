@@ -12,20 +12,24 @@
 
 ### MCP
 
-https://github.com/modelcontextprotocol
+[https://learn.microsoft.com/en-us/training/modules/mcp-server/](Introduction to MCP Server)
+
+1. Simplify your AI workflow with GitHub MCP Server
+2. Configure, connect, and use GitHub MCP Server in VS Code
+3. Using GitHub MCP Server with Copilot Chat
+4. Exercise - Integrate MCP with GitHub Copilot
+
+
 
 **GitHub**
+[https://github.com/modelcontextprotocol](MCP - GitHub)
 
-Repository Management: Browse and query code, search files, analyze commits, and understand project structure across any repository you have access to.
-
-Issue & PR Automation: Create, update, and manage issues and pull requests. Let AI help triage bugs, review code changes, and maintain project boards.
-
-CI/CD & Workflow Intelligence: Monitor GitHub Actions workflow runs, analyze build failures, manage releases, and get insights into your development pipeline.
-
-Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
+1. Repository Management: Browse and query code, search files, analyze commits, and understand project structure across any repository you have access to.
+2. Issue & PR Automation: Create, update, and manage issues and pull requests. Let AI help triage bugs, review code changes, and maintain project boards.
+3. I/CD & Workflow Intelligence: Monitor GitHub Actions workflow runs, analyze build failures, manage releases, and get insights into your development pipeline.
+4. Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
 
 [GitHub MCP](https://github.com/github/github-mcp-server)
-
 
 **Playwright**
 [MCP Playwright](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
