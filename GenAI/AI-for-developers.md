@@ -1,14 +1,12 @@
 # AI for Developers
 
 ## Module 1 - AI Foundations 
+
 ### Developer AI Tools
-**Cursor AI**
-
-**VS Code Copilot**
-
-**Antigravity**
-
-**Local models (Ollama)**
+1. Cursor AI
+2. VS Code Copilot
+3. Antigravity
+4. Local models (Ollama)
 
 ### MCP
 
@@ -23,13 +21,12 @@
 
 **GitHub**
 [https://github.com/modelcontextprotocol](MCP - GitHub)
-
+[https://github.com/github/github-mcp-server](MCP - GitHub Server)
 1. Repository Management: Browse and query code, search files, analyze commits, and understand project structure across any repository you have access to.
 2. Issue & PR Automation: Create, update, and manage issues and pull requests. Let AI help triage bugs, review code changes, and maintain project boards.
 3. I/CD & Workflow Intelligence: Monitor GitHub Actions workflow runs, analyze build failures, manage releases, and get insights into your development pipeline.
 4. Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
 
-[GitHub MCP](https://github.com/github/github-mcp-server)
 
 **Playwright**
 [MCP Playwright](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
