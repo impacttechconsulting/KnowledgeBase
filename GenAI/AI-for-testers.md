@@ -64,6 +64,7 @@ If your specific MCP server provides preconfigured prompts, you might use a slas
 2. Based on the project files in the #codebase, draft a QA sign-off document template.
 3. Generate a user acceptance testing (UAT) script for the feature described in #file:feature_spec.md
 4. Write a QA assessment report based on the internal requirements in #file:internal_guidelines.docx and the test results in #file:test_results.csv
+5. Summarize the #changes in the last pull request and format them as release notes for the QA team
 
 **Review a bug report → summarize → classify root cause**
 > [!TIP]
@@ -71,4 +72,7 @@ Review the following bug report content. Summarize the core issue, steps to repr
 [Paste the entire bug report text here]
 
 > [!TIP]
->Summarize the #changes in the last pull request and format them as release notes for the QA team
+> Based on the bug report content I provided (or the summary above), classify the likely root cause into one of these categories: Logic Error, Data Issue, Configuration Problem, UI/UX Flaw, Performance Bottleneck, or External Dependency. Explain your reasoning briefly.[Paste bug report or reference the previous turn]
+
+> [!TIP]
+I'm analyzing several recent bugs (reports below). Identify common patterns or recurring themes in the root causes, affected modules, or error messages. Bug Report 1: [Content] Bug Report 2: [Content]
