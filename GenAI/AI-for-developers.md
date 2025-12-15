@@ -4,9 +4,10 @@
 
 ### Developer AI Tools
 1. Cursor AI
-2. VS Code Copilot
-3. Antigravity
-4. Local models (Ollama)
+2. GitHub Copilot
+3. VS Code + Copilot
+4. Antigravity
+5. Local models (Ollama)
 
 ### MCP
 
@@ -18,8 +19,7 @@
 4. Exercise - Integrate MCP with GitHub Copilot
 
 
-
-**GitHub**
+**1. GitHub**
 [https://github.com/modelcontextprotocol](MCP - GitHub)
 [https://github.com/github/github-mcp-server](MCP - GitHub Server)
 1. Repository Management: Browse and query code, search files, analyze commits, and understand project structure across any repository you have access to.
@@ -28,7 +28,7 @@
 4. Code Analysis: Examine security findings, review Dependabot alerts, understand code patterns, and get comprehensive insights into your codebase.
 
 
-**Playwright**
+**2. Playwright**
 [MCP Playwright](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
 
 
