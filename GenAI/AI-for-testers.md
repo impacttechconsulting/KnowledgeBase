@@ -82,7 +82,7 @@ Review the following bug report content. Summarize the core issue, steps to repr
 
 1. Create a Prompt File: In VS Code, create a .copilot/prompts.yaml file (or similar)
 2. Define Actions:
-
+3. Run in Chat: Type /summarizeBug or /classifyRootCause in chat, then paste the bug content or pass context variables
 ```actions:
   - name: summarizeBug
     description: Summarize a bug report for quick review.
