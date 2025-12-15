@@ -75,4 +75,24 @@ Review the following bug report content. Summarize the core issue, steps to repr
 > Based on the bug report content I provided (or the summary above), classify the likely root cause into one of these categories: Logic Error, Data Issue, Configuration Problem, UI/UX Flaw, Performance Bottleneck, or External Dependency. Explain your reasoning briefly.[Paste bug report or reference the previous turn]
 
 > [!TIP]
-I'm analyzing several recent bugs (reports below). Identify common patterns or recurring themes in the root causes, affected modules, or error messages. Bug Report 1: [Content] Bug Report 2: [Content]
+> I'm analyzing several recent bugs (reports below). Identify common patterns or recurring themes in the root causes, affected modules, or error messages. Bug Report 1: [Content] Bug Report 2: [Content]
+
+> [!TIP]
+> Custom Prompt Files (for repetitive tasks)
+
+actions:
+  - name: summarizeBug
+    description: Summarize a bug report for quick review.
+    prompt: |
+      Summarize the following bug report's core issue, steps, expected/actual results.
+      ---
+      {{bug_report_content}}
+      ---
+
+  - name: classifyRootCause
+    description: Classify the root cause of a bug report.
+    prompt: |
+      Classify the root cause of the bug report below into Logic Error, Data Issue, Config, UI/UX, Performance, or External Dependency, and explain why.
+      ---
+      {{bug_report_content}}
+      ---
