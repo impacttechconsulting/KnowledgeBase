@@ -28,7 +28,7 @@ Code Analysis: Examine security findings, review Dependabot alerts, understand c
 
 
 **Playwright**
-
+[MCP Playwright](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
 
 
 
