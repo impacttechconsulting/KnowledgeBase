@@ -1,5 +1,12 @@
 # AI for Testers
 
+## Module 3 - QA Perspective  
+**AI for QA Modernization**
+
+**Agentic QA Systems**
+
+**Practical QA Hands-On**
+
 [MCP Playwright](https://developer.microsoft.com/blog/the-complete-playwright-end-to-end-story-tools-ai-and-real-world-workflows)
 ## Playwright
 1. Bootstrap tests with Codegen: Quickly capture user flows and generate test code.
