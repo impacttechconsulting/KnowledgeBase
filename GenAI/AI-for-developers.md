@@ -40,10 +40,5 @@
 
 **Refactoring & Debugging with AI**
 
-## Module 3 - QA Perspective  
-**AI for QA Modernization**
 
-**Agentic QA Systems**
-
-**Practical QA Hands-On**
 
