@@ -22,7 +22,7 @@ https://medium.com/@iamsanjeevkumar/github-copilot-automate-test-case-generation
 
 **Direct Jira Interaction Prompts**
 These prompts help fetch the requirements or features you need for the test plan:
-1. Search Jira for user stories in the "Website Redesign" project with status "To Do" and provide their acceptance criteria.
+1. Search Jira for user stories in the "AI Team" project under "AT Sprint1" sprint with status "To Do" and provide their acceptance criteria.
 2. What are the acceptance criteria for Jira issue PROJ-123: "Implement User Login Page"?
 3. List all features under the current Epic #EPIC-456 in Jira Cloud, focusing on the descriptions and acceptance criteria
 4. Using the acceptance criteria from Jira issue #PROJ-456, draft a detailed test plan covering unit, integration, and end-to-end test scenarios, including edge cases.
