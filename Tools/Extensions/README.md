@@ -1,5 +1,6 @@
 # Key extensions for Developers
 
+# Antigravity
 ## Toolkit for Antigravity
 🎯 Track your quota - Real-time monitoring with visual warnings
 
@@ -12,3 +13,6 @@
 🌍 Full Localization - Support for 13 languages with runtime i18n notifications
 
 🛠️ Intelligent Diagnostics - Built-in feedback system with automatic error reporting
+
+
+# VS Code
