@@ -21,3 +21,7 @@
 CodeBlend is a Visual Studio Code extension designed to show how much of your code is generated with AI assistance versus manual input, helping organizations understand the overall contribution of AI to team productivity. 
 
 Think of it as a “fitness tracker” for your coding workflow—it monitors activity in real time and provides insights into AI usage patterns. Organizations can easily access aggregated statistics on team coding workflows without exposing individual employee details.
+
+## GitHub Copilot
+
+## GitHub Copilot Chat
