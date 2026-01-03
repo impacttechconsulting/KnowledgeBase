@@ -1,6 +1,8 @@
 # Key extensions for Developers
 
 # Antigravity
+<img width="426" height="426" alt="image" src="https://github.com/user-attachments/assets/1f8dd784-1010-435a-9bce-83875cee466e" />
+
 ## Toolkit for Antigravity
 🎯 Track your quota - Real-time monitoring with visual warnings
 
@@ -16,6 +18,7 @@
 
 
 # VS Code
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/6855d8e4-37cf-41cc-ab31-82820b445464" />
 
 ## CodeBlend
 CodeBlend is a Visual Studio Code extension designed to show how much of your code is generated with AI assistance versus manual input, helping organizations understand the overall contribution of AI to team productivity. 
@@ -25,3 +28,9 @@ Think of it as a “fitness tracker” for your coding workflow—it monitors ac
 ## GitHub Copilot
 
 ## GitHub Copilot Chat
+
+## GitHub Copilot for Azure
+
+## Web Search for Copilot
+
+## Playwright Test for VSCode
